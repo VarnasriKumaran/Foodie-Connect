@@ -1,0 +1,13 @@
+
+  img {
+    max-width: 70%; /* Ensure images don't exceed container width */
+    max-height: 200px; /* Set maximum height for the images */
+    object-fit: cover; /* Maintain aspect ratio while covering the container */
+  }
+  .App{
+    font-family:sans-serif;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-items:center;
+  }
